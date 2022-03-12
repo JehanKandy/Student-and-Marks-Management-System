@@ -31,7 +31,7 @@ for .sql file
 ************
 Logins:<br><br>
 <b>Admin :</b><br>
-  username : jehan<br>
-  password : 123 <br>
+  username : jehan123<br>
+  password : 123456 <br>
   
   <br><br>
